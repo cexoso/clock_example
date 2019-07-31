@@ -1,0 +1,20 @@
+.pointer {
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+
+.small {
+    border-radius: 50%;
+    width: 4px;
+    background-color: #fff;
+    height: 4px;
+}
+.big {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 6px;
+    height: 6px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
