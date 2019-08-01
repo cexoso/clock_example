@@ -14,7 +14,7 @@
     margin: -5px -5px;
     background: #4f44f3;
     transform-origin: 5px 5px;
-    transition: transform 1s; 
+    transition: transform 1s;
 }
 .center {
     position: absolute;
