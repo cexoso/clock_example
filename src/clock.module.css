@@ -4,3 +4,24 @@
     background-color: #333;
     position: relative;
 }
+.clockWise {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 10px;
+    width: 43%;
+    border-radius: 10px;
+    margin: -5px -5px;
+    background: #4f44f3;
+    transform: skew(10px)
+}
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    background-color: #fff;
+    border-radius: 50%;
+    width: 4px;
+    height: 4px;
+    transform: translate(-50%, -50%);
+}
