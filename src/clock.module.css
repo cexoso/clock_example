@@ -13,7 +13,8 @@
     border-radius: 10px;
     margin: -5px -5px;
     background: #4f44f3;
-    transform: skew(10px)
+    transform-origin: 5px 5px;
+    transition: transform 1s; 
 }
 .center {
     position: absolute;
